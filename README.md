@@ -15,4 +15,3 @@ docker run -d -p 2222:22 -e DEVOPS_PASSWORD=umaSenhaSegura --name devops-server 
 ```
 
 ![alt text](image.png)
-https://roadmap.sh/projects/server-stats
